@@ -1,6 +1,7 @@
 # Hi 👋, I'm Ruslan Manasbek uulu
 
-### I'm a backend Java developer from Kyrgyzstan
+### I'm enhancing my career as a backend Java developer 🚀
+
 - 💪 I like to write code
 -  🥅 I like to play football
 - ⚡ I am constantly learning new things
